@@ -1,6 +1,9 @@
-### Hello there 🥖
+### Passionate by cryptography 🧪
+
+ - 🌱 Currently building a BlockChain
+ - 🔭 Python, Javascript, PHP, Rust 
 <!--
-**clement-caillat/clement-caillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**clementcaillat/clementcaillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

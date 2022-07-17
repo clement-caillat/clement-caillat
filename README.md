@@ -1,6 +1,7 @@
 ### Passionate by cryptography 🧪
 
  - 🌱 Currently building a BlockChain
+ - 🍃 Currently learning C
  - 🔭 Python, Javascript, PHP, Rust 
 <!--
 **clementcaillat/clementcaillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

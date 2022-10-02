@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-caillat&show_icons=true&theme=dark&locale=fr)\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-caillat&show_icons=true&theme=dark&locale=fr&hide_border=true)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clement-caillat&theme=dark&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

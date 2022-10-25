@@ -1,6 +1,5 @@
 ### Passionate by cryptography 🧪
 
- - 🌱 Currently building a BlockChain
  - 🍃 Currently learning C++
  - 🔭 Python, Javascript, PHP
 <!--

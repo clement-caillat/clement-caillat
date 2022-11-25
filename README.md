@@ -3,7 +3,8 @@
  - 🍃 Currently learning C++
  - 🔭 Python, Javascript, PHP
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clement-caillat&layout=compact&locale=fr&theme=dark&hide_border=true)]([https://github.com/clement-caillat/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clement-caillat&layout=compact&locale=fr&theme=dark&hide_border=true)]([https://github.com/clement-caillat/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))\
+
 <br/>
 <br/>
 

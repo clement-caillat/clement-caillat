@@ -5,6 +5,7 @@
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clement-caillat&layout=compact&locale=fr&theme=dark&hide_border=true)]([https://github.com/clement-caillat/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+
 <br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-caillat&show_icons=true&theme=dark&locale=fr&hide_border=true)\

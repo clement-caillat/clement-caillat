@@ -1,7 +1,6 @@
 ### Passionate by cryptography 🧪
 
- - 🍃 Currently learning C++
- - 🔭 Python, Javascript, PHP
+ - 🔭 Python, TypeScript, PHP
 <br/>
 <br/>
 
